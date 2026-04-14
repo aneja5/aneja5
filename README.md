@@ -1,4 +1,4 @@
-# Hi 👋 I'm Sahilpreet Aneja
+# Hi 👋 I'm Sahil Aneja
 
 MS Computer Science @ Northeastern University (Seattle). Previously worked in industrial IoT and automation at Hero MotoCorp.
 
